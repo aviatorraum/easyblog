@@ -1,0 +1,4 @@
+flask
+BeautifulSoup
+pygments
+peewee
