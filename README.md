@@ -1,5 +1,5 @@
 # Easy Blog
-A light blog based n Flask
+A light blog based on Flask
 
 # Features
   - Allows one user to loging with password
